@@ -86,3 +86,4 @@ fragment PostData on post {
 - [GraphQL Docs](http://graphql.org/learn/)
 - [Learn GraphQL by Kadira](https://learngraphql.com/)
 - [Using GraphQL w MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
+- [Kadira's graphql-blog-schema from above](https://github.com/kadirahq/graphql-blog-schema/blob/master/src/schema.js)
