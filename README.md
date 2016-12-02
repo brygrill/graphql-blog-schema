@@ -82,3 +82,7 @@ fragment PostData on post {
   lastUpdated
 }
 ```
+#### Resources
+- [GraphQL Docs](http://graphql.org/learn/)
+- [Learn GraphQL by Kadira](https://learngraphql.com/)
+- [Using GraphQL w MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
